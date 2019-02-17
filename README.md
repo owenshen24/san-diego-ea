@@ -1,2 +1,2 @@
-# san-deigo-ea
+# san-diego-ea
 Website for San Diego Effective Altruism
